@@ -1,2 +1,1 @@
 # grazTask
-algoritmer task
